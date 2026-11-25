@@ -11,7 +11,7 @@ epitaph, at most 150 characters. The line is the whole entry.
 
 > They charged by the letter, so this is all I could afford.
 
-61 characters. The dead speak from their own stone — and the stone itself is
+58 characters. The dead speak from their own stone — and the stone itself is
 the joke. An epitaph is supposed to be grand and carved to last; this one is
 short because the stonecutter charged by the letter. The brevity that makes it
 look carved in stone is also the punchline: the speaker could not afford a
